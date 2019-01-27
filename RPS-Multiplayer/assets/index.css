@@ -1,0 +1,37 @@
+body {
+    background-color: orange;
+}
+
+.firstParagraph {
+    background-color: gray;
+    text-align: center;
+}
+.wins{
+    color:red;
+    background-color:gray;
+}
+.ties{
+    color:blue;
+    background-color:gray;
+}
+.losses{
+    color:green;
+    background-color:gray;
+}
+
+#key {
+    color: purple;
+}
+
+#wins-display {
+    color: red;
+
+}
+
+#ties-display {
+    color: blue;
+}
+
+#losses-display {
+    color: green;
+}
